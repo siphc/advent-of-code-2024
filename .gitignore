@@ -2,3 +2,4 @@
 *.txt
 *-A
 *-B
+.gitignore
